@@ -32,6 +32,3 @@ This project simulates an online bookstore with both user-facing and administrat
 - **Tools:** Git, GitHub  
 
 ---
-
-## 📂 Project Structure
-
